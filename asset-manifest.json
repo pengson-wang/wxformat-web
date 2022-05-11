@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://pengson-wang.github.io/wxformat-web/static/css/main.cfed78d1.chunk.css",
+    "main.js": "https://pengson-wang.github.io/wxformat-web/static/js/main.ff7c755e.chunk.js",
+    "main.js.map": "https://pengson-wang.github.io/wxformat-web/static/js/main.ff7c755e.chunk.js.map",
+    "runtime-main.js": "https://pengson-wang.github.io/wxformat-web/static/js/runtime-main.91b560ad.js",
+    "runtime-main.js.map": "https://pengson-wang.github.io/wxformat-web/static/js/runtime-main.91b560ad.js.map",
+    "static/css/2.fabadb27.chunk.css": "https://pengson-wang.github.io/wxformat-web/static/css/2.fabadb27.chunk.css",
+    "static/js/2.d4415c40.chunk.js": "https://pengson-wang.github.io/wxformat-web/static/js/2.d4415c40.chunk.js",
+    "static/js/2.d4415c40.chunk.js.map": "https://pengson-wang.github.io/wxformat-web/static/js/2.d4415c40.chunk.js.map",
+    "static/js/3.f693e7d0.chunk.js": "https://pengson-wang.github.io/wxformat-web/static/js/3.f693e7d0.chunk.js",
+    "static/js/3.f693e7d0.chunk.js.map": "https://pengson-wang.github.io/wxformat-web/static/js/3.f693e7d0.chunk.js.map",
+    "index.html": "https://pengson-wang.github.io/wxformat-web/index.html",
+    "static/css/2.fabadb27.chunk.css.map": "https://pengson-wang.github.io/wxformat-web/static/css/2.fabadb27.chunk.css.map",
+    "static/css/main.cfed78d1.chunk.css.map": "https://pengson-wang.github.io/wxformat-web/static/css/main.cfed78d1.chunk.css.map",
+    "static/js/2.d4415c40.chunk.js.LICENSE.txt": "https://pengson-wang.github.io/wxformat-web/static/js/2.d4415c40.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91b560ad.js",
+    "static/css/2.fabadb27.chunk.css",
+    "static/js/2.d4415c40.chunk.js",
+    "static/css/main.cfed78d1.chunk.css",
+    "static/js/main.ff7c755e.chunk.js"
+  ]
+}
